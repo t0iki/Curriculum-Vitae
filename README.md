@@ -16,6 +16,7 @@
 - Node.js
 - Python
 - PHP
+- Java
 - C++
   - 競技プログラミングで使用
 
@@ -34,6 +35,9 @@
 - FastAPI
   - AI関連システムのAPI部分の実装に使用
   - Mangumとの組み合わせでローカルではFastAPI、デプロイ時はAPIGW+Lambda構成にして運用
+- spring boot
+  - 前職の研修＋携わったプロダクトのバックエンド側で使用
+  - 利用期間としては短め 
 
 ### DevOps
 
