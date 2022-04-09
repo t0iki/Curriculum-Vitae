@@ -56,7 +56,7 @@
   - ブランチ戦略は github-flow,gitworkflows(7)などをベースにプロジェクトごとにカスタマイズしています
 - CI/CD
   - github action
-- Docker
+- Docker、Docker Compose
 - アジャイル開発
   - 一部を抜粋したスクラム開発の経験あり
     - プランニングポーカー、スプリントレビュー、デイリースタンドアップなど
