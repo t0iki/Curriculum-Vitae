@@ -138,7 +138,7 @@
 - デザイナーと協力し、毎週リリースを目標に新規施策の機能開発
 - A/B テストの実施と定量的な施策の評価
 
-## **株式会社 AVILEN (2019/4 ~ 現在)**
+## **株式会社 AVILEN (2019/4 ~ 2022/7)**
 
 職種: Web エンジニア
 
@@ -192,7 +192,7 @@ Python(3.8), React+Typescript, AWS(ECS,APIGW,Lambda,SQS,DynamoDB,RDS,S3,CF な�
 
 #### 期間
 
-2021/1 ~ 現在
+2021/1 ~ 2022/7
 
 #### 主に担当したこと
 
@@ -206,7 +206,7 @@ Python(3.8), React+Typescript, AWS(ECS,APIGW,Lambda,SQS,DynamoDB,RDS,S3,CF な�
 
 #### 期間
 
-2021/1 ~ 現在
+2021/1 ~ 2022/7
 
 #### 主に担当したこと
 
@@ -214,3 +214,6 @@ Python(3.8), React+Typescript, AWS(ECS,APIGW,Lambda,SQS,DynamoDB,RDS,S3,CF な�
 - 入社後のサポート
 - 1on1 健康状態やモチベーションの把握
 - 仕事の悩みの解消・エンジニアとしてのアドバイス
+
+## **株式会社プレイド (2022/7~)**
+TBD
