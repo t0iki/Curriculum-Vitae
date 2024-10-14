@@ -32,10 +32,10 @@
 
 ### **言語(業務での利用期間)**
 
-- Javascript,Typescript(3 年)
-- Node.js(2~3 年)
-- Python(1~2 年)
-- PHP(2~3 年)
+- Javascript,Typescript(5 年)
+- Node.js(5 年)
+- Python(2 年)
+- PHP(2 年)
 - Java(数ヶ月)
 - C++(競技プログラミングで使用)
 
@@ -46,6 +46,11 @@
 - Vue.js, Nuxt.js: 講座受講者管理システム(下記に詳細あり)で使用
 - FastAPI: AutoML プロダクト(下記に詳細あり)の API 部分の実装に使用
 - SpringBoot: 研修とプロダクトの保守運用で触った程度
+
+### **DB**
+
+- MySQL
+- MongoDB
 
 ### **DevOps**
 
