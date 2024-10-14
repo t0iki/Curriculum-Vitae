@@ -51,6 +51,7 @@
 
 - MySQL
 - MongoDB
+- BigQuery
 
 ### **DevOps**
 
